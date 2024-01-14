@@ -1,2 +1,2 @@
 # File-Reader-Graphical-Representation
-Fundamental of Programming WIA1002
+Fundamentals of Programming WIA1002
